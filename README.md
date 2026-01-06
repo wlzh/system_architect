@@ -1,6 +1,9 @@
 # system_architect
 # 💯 2025年系统架构设计师（软考高级）
 
+## 追加2025年下半年电子资料
+ 2025软考高级系统架构设计师   [https://pan.quark.cn/s/883fbb4dd2e9](https://pan.quark.cn/s/11396ef7e6e9)
+
 ## 较新
 
 【xisai】架构课程（第二版） [https://pan.baidu.com/s/10waVt75AQzqew-3mLXrliA?pwd=ddxm](https://pan.baidu.com/s/10waVt75AQzqew-3mLXrliA?pwd=ddxm)
